@@ -26,6 +26,12 @@ This diagram documents the Terraform configuration, AWS resource relationships, 
 
 ![AWS Terraform Infrastructure Analysis](diagrams/aws-terraform-infrastructure-analysis.png)
 
+### Interactive Diagram
+
+View the full, zoomable Terraform infrastructure analysis in Excalidraw:
+
+[Open the Excalidraw diagram](https://excalidraw.com/#json=bE8jFGi_zCHAhPgIVk8_0,ZWaYX7l_GrBU-kH_vOSykQ)
+
 ## Terraform Files
 
 - `versions.tf` - Defines the required Terraform and AWS provider versions

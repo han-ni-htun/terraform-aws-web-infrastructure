@@ -20,6 +20,12 @@ The project creates:
 
 The EC2 instance runs Apache HTTP Server and displays a simple web page.
 
+## AWS Terraform Infrastructure Analysis
+
+This diagram documents the Terraform configuration, AWS resource relationships, deployment flow, state verification, and final web server output.
+
+![AWS Terraform Infrastructure Analysis](diagrams/aws-terraform-infrastructure-analysis.png)
+
 ## Terraform Files
 
 - `versions.tf` - Defines the required Terraform and AWS provider versions

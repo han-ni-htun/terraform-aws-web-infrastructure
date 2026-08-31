@@ -1,6 +1,6 @@
-# HelloCloud AWS Terraform Project Analysis
+# AWS Web Infrastructure with Terraform
 
-This project demonstrates how to provision a simple AWS web environment using Terraform.
+This project demonstrates how to provision a simple AWS web infrastructure environment using Terraform.
 
 The infrastructure includes networking resources, an EC2 instance, an Elastic IP, and a simple Apache web page.
 
